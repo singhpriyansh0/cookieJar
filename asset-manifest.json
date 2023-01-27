@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cookieJar.github.io/frontend/static/css/main.1b5fd2e0.css",
+    "main.js": "/cookieJar.github.io/frontend/static/js/main.c8b489f6.js",
+    "static/js/787.cda612ba.chunk.js": "/cookieJar.github.io/frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/landing_img3.jpg": "/cookieJar.github.io/frontend/static/media/landing_img3.05d1e5f362c8619c4df7.jpg",
+    "static/media/Cookie_jar_logo.png": "/cookieJar.github.io/frontend/static/media/Cookie_jar_logo.0f114c685b50d9c5ac9f.png",
+    "index.html": "/cookieJar.github.io/frontend/index.html",
+    "main.1b5fd2e0.css.map": "/cookieJar.github.io/frontend/static/css/main.1b5fd2e0.css.map",
+    "main.c8b489f6.js.map": "/cookieJar.github.io/frontend/static/js/main.c8b489f6.js.map",
+    "787.cda612ba.chunk.js.map": "/cookieJar.github.io/frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5fd2e0.css",
+    "static/js/main.c8b489f6.js"
+  ]
+}
