@@ -6,4 +6,4 @@ const useStyle = makeStyles((theme) =>({
        } 
 }))
 
-export default useStyles;
+export default useStyle;

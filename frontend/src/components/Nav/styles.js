@@ -11,13 +11,13 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.up("sm")]:{ display : 'none'}
    },
    appbar:{
+      position:'fixed',
     backgroundColor:'#fffdd0',
     color:'#612D08'
 
    },
   
    menu_button:{ 
-      
       [theme.breakpoints.down("xs")]:{ display:'none'},
      //[theme.breakpoints.down("md")]:{ marginLeft:'10%'},
      [theme.breakpoints.up("xs")]:{ marginLeft:'40%'},

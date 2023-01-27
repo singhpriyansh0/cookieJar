@@ -1,0 +1,8 @@
+.abc{
+   /* Created with https://www.css-gradient.com */
+z-index: 5;
+background: #FAFAFA;
+background: -webkit-linear-gradient(bottom right, #FAFAFA, #FFFED2);
+background: -moz-linear-gradient(bottom right, #FAFAFA, #FFFED2);
+background: linear-gradient(to top left, #FAFAFA, #FFFED2); 
+}
