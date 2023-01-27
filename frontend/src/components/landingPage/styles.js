@@ -7,15 +7,13 @@ const useStyles = makeStyles((theme) => ({
       //[theme.breakpoints.down("xs")]:{ marginTop:'8vh',height:'58rem'},
       [theme.breakpoints.up("sm")]:{ marginTop:'8vh',height:'88rem'},
       [theme.breakpoints.up("md")]:{ marginTop:'12vh',height:'144rem'},
-      [theme.breakpoints.up("lg")]:{ marginTop:'10vh',height:'144rem'}
       
    },
    text:{
    
-      [theme.breakpoints.down("xs")]:{   fontSize:'3rem', marginTop:'-51vh'},
-      [theme.breakpoints.up("sm")]:{  fontSize:'6rem', marginTop:'-150vh'},
-      [theme.breakpoints.up("md")]:{  fontSize:'10rem', marginTop:'-270vh',},
-      [theme.breakpoints.down("xl")]:{  fontSize:'10rem', marginTop:'-250vh',},
+      [theme.breakpoints.down("xs")]:{   fontSize:'3rem', marginTop:'-75vh'},
+      [theme.breakpoints.up("sm")]:{  fontSize:'6rem', marginTop:'-210vh'},
+      [theme.breakpoints.up("md")]:{  fontSize:'10rem', marginTop:'-290vh',},
       fontWeight:'300',
       color:'white',
       
